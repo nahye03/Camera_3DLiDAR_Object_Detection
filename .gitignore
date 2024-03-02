@@ -1,0 +1,19 @@
+**build**
+**egg-info**
+**__pycache__**
+
+CenterPoint-KITTI/
+yolov7/
+
+# KITTI dataset
+KITTI/calib
+KITTI/images
+KITTI/labels
+KITTI/velodyne
+
+# yolo_cp
+yolo_cp/data
+yolo_cp/docs
+yolo_cp/spconv/*
+!/yolo_cp/spconv/README.md
+yolo_cp/tools/OpenPCDet_back
